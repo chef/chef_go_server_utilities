@@ -1,4 +1,4 @@
-package main //chef_go_utilities
+package main //chef_go_server_utilities
 
 import (
 	// local references
