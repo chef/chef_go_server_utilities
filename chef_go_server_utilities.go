@@ -1,5 +1,6 @@
-package main //chef_go_server_utilities
+package chef_go_server_utilities
 
+/*
 import (
 	// local references
 	"github.com/chef/chef_go_server_utilities/pkg/logging"
@@ -14,3 +15,4 @@ func main () {
 	a := myLog.Log()
 	fmt.Println(a)
 }
+*/
