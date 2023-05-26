@@ -1,7 +1,10 @@
 package main //chef_go_utilities
 
 import (
-	"chef_go_utilities/pkg/logging"
+	// local references
+	"chef_go_server_utilities/pkg/logging"
+
+	// GoLang standard libraries
 	"fmt"
 )
 
